@@ -1,7 +1,7 @@
 name: Jordan Arscot
 favicon: null
-layout_spectrum: 0.22659130534157157
-typography_spectrum: 0.4618092307355255
+layout_spectrum: 0.4939
+typography_spectrum: 0.30287
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6670694211497903
-  lightness: 0.47112716012634337
-  saturation: 0.8724441782105714
-  rhythmicContrast: 0.163947029504925
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
