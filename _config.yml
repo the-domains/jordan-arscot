@@ -1,7 +1,7 @@
 name: Jordan Arscot
 favicon: null
-layout_spectrum: 0.4939
-typography_spectrum: 0.37029
+layout_spectrum: 0.76322
+typography_spectrum: 0.60111
 title: Welcome to the grid...
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#0e0f11'
+    - '#fffeff'
+    - '#a9a286'
+    - '#0f561a'
+    - '#00acde'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
