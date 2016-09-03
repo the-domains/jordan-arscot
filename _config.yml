@@ -1,20 +1,4 @@
-name: Jordan Arscot
-favicon: null
-layout_spectrum: 0.75458
 typography_spectrum: 0.27458
-title: Welcome to the grid...
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d3d1ce'
@@ -26,4 +10,20 @@ color:
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75458
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Empereol
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Welcome to the grid...
 purpose: []
